@@ -1,0 +1,213 @@
+body{
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  	background: #000;
+  }
+.Header{
+	background:#000;
+	height:50px;
+	color:#fff;
+}
+.Headerleft{
+	background:#000;
+	height:30px;
+	padding:10px 100px;
+	color:#fffd;
+	font-size: 25px;
+	width:calc(75% - 200px);
+	float:left;
+	
+}
+.Headerright{
+	background:#000;
+	height:50px;
+	width:25%;
+	float:right;
+    padding-top: 11px;
+    text-align: center;
+}
+.FirstDiv{
+	height: 570px;
+	background: #000;
+	text-align: center;
+	position: relative;
+}
+.Heading{
+	position: absolute;
+	top:40%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	color:#fff;
+	background:#0006;
+	height:380px;
+	width:100%;
+	padding-top: 100px;
+}
+.Text{
+	font-size: 50px;
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.Text1{
+	font-size: 45px;
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+.Image{
+	
+	width: 100%;
+	height:500px;
+}
+.Button{
+	background:#fffd;
+	color:#000;
+	border-radius: 20px;
+	padding:10px 20px;
+}
+.SecondDiv{
+	height: 700px;
+	color:#fff;
+	text-align: center;
+	font-family: "Arsenal SC", sans-serif;
+}
+.bottom{
+	height:500px;
+	margin:50px;
+}
+.parts{
+	width:33%;
+	float:left;
+	height:100%;
+}
+.img{
+	width:270px;
+	height:450px;
+	opacity:0.8;
+}
+.container {
+  position: relative;
+  }
+.centered {
+  position: absolute;
+  bottom: 90px;
+  right: 60px;
+  left:40px;
+  font-size: 20px;
+  color:#fffd;
+  text-align: left;
+}
+.ThirdDiv{
+	background:#000;
+	height: 500px;
+	color:#fff;
+	text-align: center;
+	font-family: "Arsenal SC", sans-serif;
+}
+.Heading1{
+	position: absolute;
+	top:95%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	color:#fff;
+	height:500px;
+	width:100%;
+}
+.FourthDiv{
+	height: 220px;
+	background:#000;
+	color: #fff;
+	text-align: center;
+	padding: 100px;
+}
+.ImageEle{
+	opacity: 0.6;
+	width: 100%;
+	height:550px;
+}
+.Text1{
+	font-size: 35px;
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.Font{
+    font-size: 12px;
+    font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color:#fffa;
+}
+.FifthDiv{
+	height: 350px;
+}
+.ImgHorse{
+	width: 100%;
+	height:350px;	
+}
+.SixthDiv{
+   height: 380px;
+   margin:30px auto;
+}
+.SubDiv1{
+	margin-left: 70px;
+    width:calc(50% - 100px);
+    float: left;
+    padding-left: 30px;    
+}
+.SubDiv2{
+	margin-right: 70px;
+	width:calc(50% - 100px);
+	 float: right;
+	 padding-right: 30px;
+}
+.ImgDiv{
+	height: 360px;
+	margin: 20px;
+    width: 380px;
+}
+.SeventhDiv{
+	height: 190px;
+	text-align: center;
+	color: #fff;
+	margin: 20px;
+}
+.EightDiv{
+	height: 200px;
+    width: 77%;
+    margin: 0 auto;
+}
+.Div1{
+	width: calc(25% - 40px);
+	height: 170px;
+	float: left;
+	margin: 20px;
+}
+.FooterDiv{
+	height:200px;
+	color:#fff;
+	text-align: center;
+	 width: 80%;
+    margin: 0 auto;
+}
+.Div2{
+	margin-top: 50px;
+	width:calc(30% - 20px);
+	float: left;
+	margin-left: 8px;
+}
+.SubText{
+	font-size: 10px;
+	color: #fff9;
+	font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
